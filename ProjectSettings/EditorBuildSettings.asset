@@ -6,12 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Game_Terrarium/Scenes/00_MENU.unity
-    guid: caa73391a7d87064ca9fa3e4e44ac3bf
+    path: Assets/_Generative_IA/Scenes/CubeFractal.unity
+    guid: ded757e4c0913aa44bd18b26b4f295ac
   - enabled: 1
-    path: Assets/_Game_Terrarium/Scenes/01_MAP_.unity
-    guid: a6739b4e15b42b54789468b5ee71be6b
-  - enabled: 1
-    path: Assets/_Game_Terrarium/Scenes/02_GAME_unificado.unity
-    guid: 12f489f8d723027428b7ae19c726f7d2
+    path: Assets/_Generative_IA/Scenes/SphereBubbles.unity
+    guid: cb4e180748ee4324db5bb41ab8b5a349
   m_configObjects: {}
